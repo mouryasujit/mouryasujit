@@ -23,7 +23,7 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mouryasujit&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![](https://raw.githubusercontent.com/mouryasujit/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/mouryasujit/github-stats-transparent/output/generated/languages.svg)
@@ -32,7 +32,7 @@
 <details open>
  <summary> 😇 <b>Medium Published articles</b>: </summary>
 <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0" alt="Recent Article 0"></a>
+    <a target="_blank" href="https://medium.com/@mouryasujit04/why-to-use-next-js-7bfc53c9d1bc"><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*q-FlKYtSMkPcVcMG_m3iwA.png" alt="Recent Article 0">Why use Nextjs</a>
   <br>
    
 
@@ -40,7 +40,7 @@
 
 ### Latest Tweets
 
-<p><a href="https://www.twitter.com/itgoyo"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=itgoyo&amp;layout=wide" alt="github-readme-twitter"></a></p>
+<p><a href="https://www.twitter.com/Sujitkumar200"><img src="https://pbs.twimg.com/card_img/1673963669355474945/waSStcvC?format=jpg&name=small" alt="github-readme-twitter"></a></p>
 
 ### 🎧 Spotify Playing
 
@@ -63,19 +63,11 @@ Don't be a programmer, Be a problem solver.
 公众号：v2code
 
 - 📫 How to reach me:
-    - :octocat: [Github@itgoyo](https://github.com/itgoyo)
-    - :email: [itgoyo@gmail.com](mailto:itgoyo@gmail.com)
-    - :tv: [Bilibili@itgoyo](https://space.bilibili.com/12767066)
-    - :tv: [Youtube@itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ?view_as=subscriber)
-    - :camera:[Instagram@itgoyo](https://www.instagram.com/itgoyo1991/)
-    - :bird:[twitter@itgoyo](https://twitter.com/itgoyo/)
+    - :Github :  [Github@mouryasujit](https://github.com/mouryasujit)
+    - :email: [mouryasujit04@gmail.com](mailto:mouryasujit04@gmail.com)
+    - :bird:[twitter@Sujitkumar200](https://twitter.com/itgoyo/)
+    - :linkedin:[linkedin@sujitkumar Mourya](https://www.linkedin.com/in/sujitkumar-mourya-9640a523a/)
  
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#106](https://github.com/nschloe/tiptop/issues/106) in [nschloe/tiptop](https://github.com/nschloe/tiptop)
-2. 🗣 Commented on [#482](https://github.com/biliup/biliup/issues/482) in [biliup/biliup](https://github.com/biliup/biliup)
-<!--END_SECTION:activity-->
 
  
