@@ -32,7 +32,7 @@
 <details open>
  <summary> 😇 <b>Medium Published articles</b>: </summary>
 <br>
-    <a target="_blank" href="https://medium.com/@mouryasujit04/why-to-use-next-js-7bfc53c9d1bc"><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*q-FlKYtSMkPcVcMG_m3iwA.png" alt="Recent Article 0">Why use Nextjs</a>
+    <a target="_blank" href="https://medium.com/@mouryasujit04/why-to-use-next-js-7bfc53c9d1bc">Why use Nextjs<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*q-FlKYtSMkPcVcMG_m3iwA.png" alt="Recent Article 0"></a>
   <br>
    
 
