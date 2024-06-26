@@ -24,7 +24,7 @@
 
 <p align="left"> <a href="https://twitter.com/sujitkumar200" target="blank"><img src="https://img.shields.io/twitter/follow/sujitkumar200?logo=twitter&style=for-the-badge" alt="sujitkumar200" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://nextjs-portfolio-cum-blog.vercel.app/](https://sujitkumarmourya.vercel.app/)
+- 👨‍💻 All of my projects are available at [PortFolio](https://sujitkumarmourya.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@mouryasujit04](https://medium.com/@mouryasujit04)
 
@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **mouryasujit04@gmail.com**
 
-- 📄 Know about my experiences [https://nextjs-portfolio-cum-blog.vercel.app/](https://nextjs-portfolio-cum-blog.vercel.app/)
+- 📄 Know about my experiences [PortFolio](https://sujitkumarmourya.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
