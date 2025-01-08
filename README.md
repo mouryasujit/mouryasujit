@@ -26,7 +26,7 @@
 </p>
 
 <!-- About Me Section -->
-- 👨‍💻 Explore my work on my **[Portfolio](https://sujitkumarmourya.vercel.app/)**  
+- 👨‍💻 Explore my work on my **[Portfolio](https://portfolio-public.onrender.com/)**  
 - 📝 I write blogs on **[Medium](https://medium.com/@mouryasujit04)**  
 - 💬 Ask me about **MERN Stack, C++, Blockchain, and Python**  
 - 📫 Reach me at: **mouryasujit04@gmail.com**  
